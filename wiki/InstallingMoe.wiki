@@ -1,5 +1,5 @@
 #labels Featured,HowTo
-#Installing Moe
+# Installing Moe
 
 = Introduction =
 
