@@ -33,3 +33,9 @@ A Revision is known in each Repository by a different name (a changeset in mercu
 A Migration is an attempt to take code from one Repository (at one Revision) and move it to another Revision. This may include attempting to translate it (via a translator) and copy metadata (such as a Revision description, or author, or time/data of commit), and submit it to another Repository.
 
 MOE is a toolkit for acting on these concepts.
+
+= What Next =
+
+If you don't know anyone else using MOE, it sounds like you're using MOE at a new site. See NewMoeSite .
+
+If your site is already using moe, then see SetUpMoe to get your project up to speed.
