@@ -7,4 +7,4 @@ If no one at your company or project have used MOE, you'll need to perform some 
 
 = Set Up a MOE db. =
 
-MOE relies on a MoeDb. MoeDb is an app engine app, so you'll need to have that running. See RunningMoeDb .
+MOE relies on a MoeDb. MoeDb is an app engine app, so you'll need to have that running. See RunningMoeDbApp .
