@@ -10,17 +10,17 @@ MOE helps one project live in two repositories. If you only ever want your code 
 Some people know how to command git or mercurial to dance to their command, and have no need for MOE.
 
 MOE is useful in the face of:
-* users who are not git/hg wizards
-* source control system heterogeneity
-* having differences between the internal and public codebases. This last reason gives rise to the concept of Project Spaces
+  * users who are not git/hg wizards
+  * source control system heterogeneity
+  * having differences between the internal and public codebases. This last reason gives rise to the concept of Project Spaces
 
 = Concepts =
 
 With MOE, you describe your project's two Repositories:
 
 A Repository is a source control repository that stores your project. It offers:
-*a way to get metadata about what has happened in that repository
-* a way to construct a Codebase at a revision.
+  *a way to get metadata about what has happened in that repository
+  *a way to construct a Codebase at a revision.
 
 A Codebase is a set of files with their contents and metadata (for now, only their executable bits).
 
